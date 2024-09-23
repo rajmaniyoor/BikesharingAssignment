@@ -37,7 +37,7 @@ statsmodels: 0.14.3
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rajmaniyoor] - feel free to contact me!
 
 
 <!-- Optional -->
