@@ -27,10 +27,15 @@ Temperature, weather condition and year highly influences the number of users re
 
 ## Technologies Used
 numpy: 1.26.4
+
 pandas: 2.1.4
+
 matplotlib: 3.7.1
+
 seaborn: 0.13.1
+
 sklearn: 1.3.2
+
 statsmodels: 0.14.3
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
